@@ -1,3 +1,352 @@
+<!DOCTYPE html>
 <html>
-<h1>Venture SPRINT Under Construction ...</h1>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width">
+		<title>Design Sprint</title>
+		<link href="./index.css" rel="stylesheet" type="text/css" />
+		
+		<script>
+			var doc = document.documentElement;
+			var html = document.getElementsByTagName('html')[0];
+			if(doc.clientWidth < 600){
+				var meta = document.querySelector('meta[name="viewport"]');
+				var dpr = window.devicePixelRatio || 1;
+				var rem = doc.clientWidth * dpr / 10;
+				var scale = 1 / dpr;
+				
+				meta.setAttribute('content', 'width=' + dpr * doc.clientWidth + ',initial-scale=' + scale + ',maximum-scale=' + scale + ', minimum-scale=' + scale + ',user-scalable=no');
+				
+				html.style.fontSize = rem + 'px';
+			}else{
+				html.style.fontSize = '16px';
+			}
+		</script>
+	</head>
+	<body>
+		<div class="language-switch">
+			<div class="language-switch-btn">中文</div>
+		</div>
+		<div class="container container-en">
+			<div class="hero">
+				<img src="./images/headline.png"/>
+				<img src="./images/subtitle.png"/>
+				<div class="logo">
+					<img src="./images/logo.png" />
+				</div>
+			</div>
+			<div class="concept">
+				<div class="concept-section">
+					<h3>WHAT IS DESIGN SPRINT?</h3>
+					<p>The Design Sprint is a proven methodology for solving problems through designing, prototyping, and testing ideas with users. Design Sprints quickly align teams under a shared vision with clearly defined goals and deliverables. </p>
+					<img class="basic-idea" src="./images/basicIdea.png"/>
+				</div>
+				<div class="concept-section">
+					<h3>WHERE DOES IT COME FROM?</h3>
+					<p>The Design Sprint methodology was developed at Google from a vision to grow UX culture and the practice of design leadership across the organization. Multiple teams within Google experimented with different methods from traditional UX practice, IDEO, the Stanford dSchool, business strategy, and even psychology, applying them to support divergent and convergent thinking with teams.and convergent thinking with teams.</p>
+				</div>
+			</div>
+			<div class="sprint-process">
+				<h3>DESIGN SPRINT METHODOLOGY</h3>
+				<p>The Design Sprint follows six phases: Understand, Define, Sketch, Decide, Prototype, and Validate.</p>
+				<img src="./images/sixStep.png"/>
+				<div class="process-box first">
+					<h4 class="red">MONDAY</h4>
+					<h4>UNDERSTAND AND DEFINE</h4>
+					<div class="dilate">Monday’s structured discussions create a path for the sprint week.</div>
+				</div>
+				<div class="process-box">
+					<h4 class="red">TUESDAY</h4>
+					<h4>SKETCH</h4>
+					<div class="dilate">On Tuesday, you get to focus on solutions.</div>
+				</div>
+				<div class="process-box">
+					<h4 class="red">WEDNESDAY</h4>
+					<h4>DECIDE</h4>
+					<div class="dilate">You’ll critique each solution, and decide which ones have the best chance of achieving your long-term goal.</div>
+				</div>
+				<div class="process-box">
+					<h4 class="red">THURSDAY</h4>
+					<h4>PROTOTYPE</h4>
+					<div class="dilate">You’ll adopt a “fake it” philosophy to turn that storyboard into a prototype.</div>
+				</div>
+				<div class="process-box">
+					<h4 class="red">FRIDAY</h4>
+					<h4>VALIDATE</h4>
+					<div class="dilate">Interview customers and learn by watching them react to your prototype.</div>
+				</div>
+			</div>
+			<div class="testimonial">
+				<div class="avatar">
+					<img src="./images/founder.png"/>
+				</div>
+				<h4 class="red">JAKE KNAPP</h4>
+				<h4>WHO CREATED DESIGN SPRINT</h4>
+				<p>
+					Jake spent 10 years at Google and Google Ventures, where he created the Design Sprint. He has since coached teams like Slack, Uber, 23andMe, LEGO, and The New York Times on the method. 
+				</p>
+				<div class="view">
+					<div class="quotes">
+						<img src="./images/quotes.png" />
+					</div>
+					<div class="text en">
+						The most common estimate is that it’s <span>100 times cheaper</span> to make a change before any code has been written than it is to wait until after the implementation is complete.
+					</div>
+				</div>
+			</div>
+			<div class="portfolio">
+				<h3>WHO USE DESIGN SPRINT</h3>
+				<p>Design Sprint has been run by companies like Nest, Flatiron Health, and Medium—to help them enter new markets, design new products, develop new features for millions of users, define marketing strategies, and much more.</p>
+				<div class="company">
+					<img src="./images/user.png"/>
+				</div>
+				<h5>CHINESE PROJECTS USING DESIGN SPRINT</h5>
+				<div class="chinese-user">
+					<div class="left top">
+						<div class="name">CSDN</div>
+						<div class="finance">Last Funding Type: Series A</div>
+					</div>
+					<div class="right top">
+						<div class="name">IT橘子</div>
+						<div class="finance">Last Funding Type: Series C</div>
+					</div>
+					<div class="left">
+						<div class="name">批改网</div>
+						<div class="finance">Last Funding Type: Series A</div>
+					</div>
+					<div class="right">
+						<div class="name">老司机</div>
+						<div class="finance">Last Funding Type: Series A</div>
+					</div>
+					<div class="left">
+						<div class="name">孕橙</div>
+						<div class="finance">Last Funding Type: Series A</div>
+					</div>
+					<div class="right">
+						<div class="name">看山</div>
+						<div class="finance">Last Funding Type: Series A</div>
+					</div>
+					<div class="left">
+						<div class="name">悟宝</div>
+						<div class="finance">Last Funding Type: Pre-A</div>
+					</div>
+					<div class="right">
+						<div class="name">GitChat</div>
+						<div class="finance">Last Funding Type: Pre-A</div>
+					</div>
+					<div class="left">
+						<div class="name">INNO SPACE</div>
+						<div class="finance">Last Funding Type: Angel</div>
+					</div>
+					<div class="right">
+						<div class="name">Bot Orange</div>
+						<div class="finance">Last Funding Type: Angel</div>
+					</div>
+				</div>
+			</div>
+			<div class="masters">
+				<h3>OUR SPRINT MASTER</h3>
+				<P>A Sprint Master is the lead of the team. This is the person who identifies the design challenge for the sprint, brings the team together and takes them through all sprint stages.</P>
+				<div class="master">
+					<div class="avatar">
+						<img src="./images/master-yao.png"/>
+					</div>
+					<h4 class="red">THOMAS YAO</h4>
+					<h4>FOUNDER OF VENTURE SPRINT</h4>
+				</div>
+				<div class="master">
+					<div class="avatar">
+						<img src="./images/master-li.png"/>
+					</div>
+					<h4 class="red">HUAN LI</h4>
+					<h4>CHIEF DESIGN SPRINT MASTER</h4>
+					<h6>GOOGLE CERTIFED DESIGN SPRINT MASTER</h6>
+				</div>
+			</div>
+			<div class="sign-up">
+				<div class="qr-box">
+					<div class="qr">
+						<img src="./images/qr.png"/>
+					</div>
+					<div class="intro">
+						<div class="tip">Scan</div>
+						<div class="tip-content">Sign up <br/>for free</div>
+						<div class="logo">
+							<img src="./images/logo.png"/>
+						</div>
+					</div>
+				</div>
+				<img src="./images/footer.png"/>
+			</div>
+		</div>
+		<div class="container container-ch">
+			<div class="hero">
+				<h1>设计冲刺</h1>
+				<h2 style="display: block;">用5天的时间检验</h2>
+				<h2 class="line-second">你的产品</h2>
+				<div class="logo">
+					<img src="./images/logo.png" />
+				</div>
+			</div>
+			<div class="concept">
+				<div class="concept-section">
+					<h3>什么是设计冲刺？</h3>
+					<p>设计冲刺是一种经过认证的方法论，用于解决为用户设计，产品原型输出以及检验想法时遇到的种种问题。设计冲刺有助于设计团队掌控自身的节奏并帮助他们快速构建清晰的设计目标并产生有效的输出。</p>
+					<img class="basic-idea" src="./images/basicIdea-ch.png"/>
+				</div>
+				<div class="concept-section">
+					<h3>设计冲刺源自哪里？</h3>
+					<p>设计冲刺方法论来源于谷歌公司，主要用于培养用户体验设计思维文化的培养以及企业内部设计领导力的实践。这种与传统的UX实践，IDEO，斯坦福大学dSchool，商业决策甚至心理学不同的设计方法已被谷歌公司内部的多个团队使用，以便融合团队内部的整体思维。</p>
+				</div>
+			</div>
+			<div class="sprint-process">
+				<h3>设计冲刺方法论</h3>
+				<p>设计冲刺涵盖六个阶段：理解、定义、草稿、决策、原型和检验阶段。</p>
+				<img src="./images/sixStep-ch.png"/>
+				<div class="process-box ch">
+					<h4 class="red">星期一</h4>
+					<h4>理解&定义</h4>
+					<div class="dilate">周一开展结构化讨论会，为整个设计冲刺周提供整体规划。</div>
+				</div>
+				<div class="process-box ch">
+					<h4 class="red">星期二</h4>
+					<h4>草稿</h4>
+					<div class="dilate">星期二，你将把目光放在解决方案上。</div>
+				</div>
+				<div class="process-box ch">
+					<h4 class="red">星期三</h4>
+					<h4>决策</h4>
+					<div class="dilate">你将评测每一项解决方案，然后决定哪一种方案更有机会实现你们的长期目标。</div>
+				</div>
+				<div class="process-box ch">
+					<h4 class="red">星期四</h4>
+					<h4>原型</h4>
+					<div class="dilate">你将通过采取将你制作的故事板转化成产品原型。</div>
+				</div>
+				<div class="process-box ch">
+					<h4 class="red">星期五</h4>
+					<h4>检验</h4>
+					<div class="dilate">进行用户访谈，观察他们对产品原型的反应并从中学习。</div>
+				</div>
+			</div>
+			<div class="testimonial">
+				<div class="avatar">
+					<img src="./images/founder.png"/>
+				</div>
+				<h4 class="red">JAKE KNAPP</h4>
+				<h4>设计冲刺创始人</h4>
+				<p>
+					Jake在谷歌以及谷歌风险投资工作近十年并创建了设计冲刺方法。之后他辅导了包括Slack，优步， 23andMe，乐高以及纽约时报等企业的多个团队开展开展设计冲刺方法实践。
+				</p>
+				<div class="view">
+					<div class="quotes">
+						<img src="./images/quotes.png" />
+					</div>
+					<div class="text ch">
+							根据最普遍的预测，通常情况下在进入实际开发阶段前对产品问题进行修正相比等到开发完成后再进行要<span>节省100倍的资源</span>。
+					</div>
+				</div>
+			</div>
+			<div class="portfolio">
+				<h3>谁在使用设计冲刺？</h3>
+				<p>使用设计冲刺方法论的公司包括Nest, Flatiron Health和Medium，设计冲刺有助于他们开拓新的市场，完成新产品的设计，为数百万用户开发新的产品功能及特征，定义市场策略以及完成其他数不胜数的任务</p>
+				<div class="company">
+					<img src="./images/user.png"/>
+				</div>
+				<h5>中国地区使用设计冲刺方法的项目一览</h5>
+				<div class="chinese-user">
+					<div class="left top">
+						<div class="name">CSDN</div>
+						<div class="finance">目前融资情况：A轮</div>
+					</div>
+					<div class="right top">
+						<div class="name">IT桔子</div>
+						<div class="finance">目前融资情况：C轮</div>
+					</div>
+					<div class="left">
+						<div class="name">批改网</div>
+						<div class="finance">目前融资情况：A轮</div>
+					</div>
+					<div class="right">
+						<div class="name">老司机</div>
+						<div class="finance">目前融资情况：A轮</div>
+					</div>
+					<div class="left">
+						<div class="name">孕橙</div>
+						<div class="finance">目前融资情况：A轮</div>
+					</div>
+					<div class="right">
+						<div class="name">看山</div>
+						<div class="finance">目前融资情况：A轮</div>
+					</div>
+					<div class="left">
+						<div class="name">悟宝</div>
+						<div class="finance">目前融资情况：Pre-A轮</div>
+					</div>
+					<div class="right">
+						<div class="name">GitChat</div>
+						<div class="finance">目前融资情况：Pre-A轮</div>
+					</div>
+					<div class="left">
+						<div class="name">INNO SPACE</div>
+						<div class="finance">目前融资情况：天使轮</div>
+					</div>
+					<div class="right">
+						<div class="name">Bot Orange</div>
+						<div class="finance">目前融资情况：天使轮</div>
+					</div>
+				</div>
+			</div>
+			<div class="masters">
+				<h3>我们的冲刺导师</h3>
+				<P>冲刺导师是整个设计团队的领袖。他将带领设计团队认识设计冲刺实践中的各项挑战，将整个团队凝聚起来并引导大家完成设计冲刺的各个步骤</P>
+				<div class="master">
+					<div class="avatar">
+						<img src="./images/master-yao.png"/>
+					</div>
+					<h4 class="red">THOMAS YAO</h4>
+					<h4>VENTURE SPRINT 创始人</h4>
+				</div>
+				<div class="master">
+					<div class="avatar">
+						<img src="./images/master-li.png"/>
+					</div>
+					<h4 class="red">HUAN LI</h4>
+					<h4>设计冲刺首席导师</h4>
+					<h6>谷歌认证设计冲刺导师</h6>
+				</div>
+			</div>
+			<div class="sign-up">
+				<div class="qr-box">
+					<div class="qr">
+						<img src="./images/qr.png"/>
+					</div>
+					<div class="intro ch">
+						<div class="tip">扫一扫</div>
+						<div class="tip-content">免费<br/>注册</div>
+						<div class="logo">
+							<img src="./images/logo.png"/>
+						</div>
+					</div>
+				</div>
+				<img src="./images/footer.png"/>
+			</div>
+		</div>
+	</body>
+	<script>
+		var languageSwitchBtn = document.querySelector('.language-switch-btn');
+		var chContainer = document.querySelector('.container-ch');
+		var enContainer = document.querySelector('.container-en');
+		languageSwitchBtn.addEventListener('click', function(e){
+			if(languageSwitchBtn.innerHTML == '中文'){
+				languageSwitchBtn.innerHTML = '英文';
+				enContainer.style.display = 'none';
+				chContainer.style.display = 'block';
+			}else{
+				languageSwitchBtn.innerHTML = '中文';
+				chContainer.style.display = 'none';
+				enContainer.style.display = 'block';
+			}
+		});
+	</script>
 </html>
