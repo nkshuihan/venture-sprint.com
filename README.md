@@ -2,6 +2,10 @@
 
 Venture SPRINT is a Google Design Sprint operating institution that provides Design Partner Service for Venture Capital and Innovation Teams. (Venture SPRINT是一家Google Design Sprint运营机构，为风险投资和创新团队提供设计合作伙伴服务。)
 
+## Version 2019
+
+This www.venture-sprint.com is the first version built with the help of our best designer friend: Hao LIU (刘浩)
+
 ## INTRODUCTION
 
 [Venture SPRINT Introduction Slides](https://docs.google.com/presentation/d/12rHQtDeTL1NlbYF_YntruT33crdtSMUWGDI8JweghHU/edit?usp=sharing)
