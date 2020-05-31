@@ -20,6 +20,7 @@ image: /assets/portfolios/dailekeji/icon.jpg
 （这是我们在思考HMW时的问题拆解）
 
 Venture Sprint的流程在我们团队的总结基本如下：
+
 1. 设定一个粗糙的Big challenge
 2. 在Big challenge下，用HMW分析法发现并拆解问题（团队独立思考）
 3. 反推一个更加精准的Big challenge（团队独立思考后投票）
@@ -32,6 +33,7 @@ Venture Sprint的流程在我们团队的总结基本如下：
 10. 8-15步原型界面
 11. 团队间测试及原型界面改动
 12. 用户测试
+
 有趣的是，为了保证我们下午不犯困，姚瑞军教练还要求我们午间不许吃肉！这可把我们几个大男人腿吓软了！
 ![presentation](/assets/2019/02-dailiekeji-sprint/5-presentation.jpg)
 
