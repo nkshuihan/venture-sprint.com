@@ -35,7 +35,7 @@ Venture Sprint的流程在我们团队的总结基本如下：
 12. 用户测试
 
 有趣的是，为了保证我们下午不犯困，姚瑞军教练还要求我们午间不许吃肉！这可把我们几个大男人腿吓软了！
-![presentation](/assets/2019/02-dailiekeji-sprint/5-presentation.jpg) 
+![presentation](/assets/2019/02-dailiekeji-sprint/5-presentation.jpg)
 
 不过几天“吃斋”下来，Venture Sprint让我们相信，即使不吃肉也可以是狼，而且更快更精准。
 ![heying](/assets/2019/02-dailiekeji-sprint/6-heying.jpg)
