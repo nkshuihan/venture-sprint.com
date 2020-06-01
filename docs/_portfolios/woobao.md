@@ -1,6 +1,6 @@
 ---
 name: 悟宝智能
-site:https://www.askwoobo.com/
+site: https://www.askwoobo.com/
 bio: 悟宝：致力于开发儿童英语能力和逻辑思维的智能萌宠
 avatar: /assets/portfolios/woobao/icon.jpg
 twitter: 
@@ -11,6 +11,7 @@ people:
   - yarui-wang
   - liwen-zhang
 ---
+
 悟宝：致力于开发儿童英语能力和逻辑思维的智能萌宠
 ![1](/assets/portfolios/woobao/1.png)
 ![2](/assets/portfolios/woobao/2.png)
