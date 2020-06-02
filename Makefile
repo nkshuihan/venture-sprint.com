@@ -6,7 +6,7 @@ all: serve
 
 .PHONY: install
 install:
-	(cd docs && bundle install && bundle update)
+	(cd docs && bundler install && bundler update)
 
 .PHONY: test
 test:
@@ -22,7 +22,7 @@ clean:
 
 .PHONY: serve
 serve:
-	(cd docs && bundle exec jekyll serve --incremental)
+	(cd docs && bundler exec jekyll serve --incremental)
 
 .PHONY: docker
 docker:
