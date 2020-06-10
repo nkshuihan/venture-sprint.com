@@ -1,6 +1,6 @@
 ---
 title: 璞元科技冲刺总结
-author: puyuan
+author: puyuankeji
 categories: news
 tags:
   - vs4

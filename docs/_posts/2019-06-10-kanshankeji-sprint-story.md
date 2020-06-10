@@ -1,6 +1,6 @@
 ---
 title: Venture Sprint冲刺培训中的点点滴滴
-author: kanshan
+author: kanshankeji
 categories: news
 tags:
   - vs5

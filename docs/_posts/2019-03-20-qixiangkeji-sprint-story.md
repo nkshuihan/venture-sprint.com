@@ -1,6 +1,6 @@
 ---
 title: 骑享科技Venture Sprint冲刺总结
-author: qixiang
+author: qixiangkeji
 categories: news
 tags:
   - vs3

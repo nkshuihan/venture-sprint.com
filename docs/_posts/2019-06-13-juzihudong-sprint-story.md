@@ -1,6 +1,6 @@
 ---
 title: 句子互动冲刺故事
-author: juzi
+author: juzihudong
 categories: news
 tags:
   - vs6

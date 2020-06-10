@@ -1,6 +1,6 @@
 ---
 title: Venture Sprint创新冲刺训练营的收获
-author: xiegong
+author: gitchat
 categories: news
 tags:
   - vs4

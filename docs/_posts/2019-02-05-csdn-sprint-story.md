@@ -1,6 +1,6 @@
 ---
 title: CSDN冲刺故事
-author: mayuan
+author: csdn
 categories: news
 tags:
   - sprint
