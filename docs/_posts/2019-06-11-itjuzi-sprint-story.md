@@ -4,7 +4,7 @@ author: itjuzi
 categories: news
 tags:
   - vs5
-image: /assets/portfolios/itjuzi/heying.jpg
+image: /assets/2019/05-itjuzi-sprint/heying.jpg
 ---
 IT桔子作为团队是第二次参加冲刺。接下来我简单介绍一下Venture Sprint的冲刺是什么以及在哪些方面帮助了我们。冲刺首先要求团队5人以上多种角色的人参加，必须要有一个“决策人”，主要负责做决定。剩余角色包括但不限于“用户研究员”“产品经理”“设计师”“市场营销”“APP负责人”“市场负责人”……核心是希望在讨论中能有从更多不同视角的观察而引起的可执行可完善的讨论。
 

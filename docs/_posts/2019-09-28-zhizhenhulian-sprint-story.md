@@ -4,7 +4,7 @@ author: liupeng
 categories: news
 tags:
   - vs9
-image:  /assets/portfolios/zhizhenhulian/heying.jpg
+image:  /assets/2019/09-zhizhen-sprint/heying.jpg
 ---
 ![1](/assets/2019/09-zhizhen-sprint/1.jpg)
 ![2](/assets/2019/09-zhizhen-sprint/2.jpg)

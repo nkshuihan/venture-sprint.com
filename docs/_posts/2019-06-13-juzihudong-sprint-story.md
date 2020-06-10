@@ -4,7 +4,7 @@ author: juzi
 categories: news
 tags:
   - vs6
-image:  /assets/portfolios/juzihudong/heying.jpg
+image:  /assets/2019/06-juzihudong-sprint/heying.jpg
 ---
 ![1-start](/assets/2019/06-juzihudong-sprint/1-start.jpg)
 ![2-challenge](/assets/2019/06-juzihudong-sprint/2-challenge.jpg)

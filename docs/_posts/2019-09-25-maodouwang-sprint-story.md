@@ -4,7 +4,7 @@ author: liming
 categories: news
 tags:
   - vs9
-image: /assets/portfolios/maodouwang/heying.jpg
+image: /assets/2019/09-maodou-sprint/heying.jpg
 ---
 ![1](/assets/2019/09-maodou-sprint/1.jpg)
 ![2](/assets/2019/09-maodou-sprint/2.jpg)

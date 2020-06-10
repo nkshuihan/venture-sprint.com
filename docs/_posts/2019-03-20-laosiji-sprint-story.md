@@ -4,7 +4,7 @@ author: 蜂巢
 categories: news
 tags:
   - vs3
-image: /assets/portfolios/laosiji/icon.jpg
+image: /2019/03-fenchaokeji-sprint/heying.jpg
 ---
 ![1](/assets/2019/03-fenchaokeji-sprint/1.jpg)
 ![2](/assets/2019/03-fenchaokeji-sprint/2.jpg)

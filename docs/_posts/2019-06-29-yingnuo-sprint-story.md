@@ -4,7 +4,7 @@ author: yinnuo
 categories: news
 tags:
   - vs7
-image: /assets/portfolios/yingnuo/heying.jpg
+image: /assets/2019/07-yingnuo-sprint/heying.jpg
 ---
 五天的冲刺结束，虽然很累但是收获满满。不仅接触到了一种新的工作方法，而且对一个产品的设计流程有了初步的概念。更重要的是，对我们即将要上线的线上社区有了更深的理解。
 ![map](/assets/2019/07-yingnuo-sprint/1-map.jpg)
