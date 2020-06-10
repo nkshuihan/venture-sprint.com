@@ -7,7 +7,6 @@ tags:
 image: /assets/portfolios/quechao-xlab/heying.jpg
 ---
 ![1](/assets/2019/10-quechao-xlab-sprint/1.jpg)
-![1](/assets/2019/10-quechao-xlab-sprint/1.jpg)
 ![2](/assets/2019/10-quechao-xlab-sprint/2.jpg)
 ![3](/assets/2019/10-quechao-xlab-sprint/3.jpg)
 ![4](/assets/2019/10-quechao-xlab-sprint/4.jpg)
