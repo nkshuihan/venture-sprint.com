@@ -1,10 +1,10 @@
 ---
 title: 锋巢科技冲刺故事
-author: 蜂巢
+author: laosiji
 categories: news
 tags:
   - vs3
-image: /2019/03-fenchaokeji-sprint/heying.jpg
+image: assets/2019/03-fenchaokeji-sprint/heying.jpg
 ---
 ![1](/assets/2019/03-fenchaokeji-sprint/1.jpg)
 ![2](/assets/2019/03-fenchaokeji-sprint/2.jpg)

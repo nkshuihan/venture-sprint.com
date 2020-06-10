@@ -4,7 +4,7 @@ author: itjuzi
 categories: news
 tags:
   - vs2
-image: /assets/2019/02-itjuzi-sprint/5-heying.jpg
+image: assets/2019/02-itjuzi-sprint/5-heying.jpg
 ---
 在参加Venture Sprint前一周的星期二，老大告诉了我们这个“噩耗”，当时心理其实是没有太重视的。首先，手头有纷杂的执行工作以及增长工作需要去做；其次，低估了Venture Sprint，以为这个可能就是一个类似其他的workshop，黑客马拉松似的，到时候拿着电脑到现场继续做手头的工作就可以了。然而，一切在2月25日这天发生了改变。
 

@@ -4,7 +4,7 @@ author: shequ
 categories: news
 tags:
   - vs9
-image: /assets/portfolios/shequ/icon.jpg
+image: assets/portfolios/shequ/icon.jpg
 ---
 ![1](/assets/2019/09-shequ-sprint/1.jpg)
 ![2](/assets/2019/09-shequ-sprint/2.jpg)

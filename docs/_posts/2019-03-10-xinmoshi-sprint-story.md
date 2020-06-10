@@ -4,7 +4,7 @@ author: xinmoshi
 categories: news
 tags:
   - vs2
-image: /assets/2019/02-xinmoshi-sprint/5-heying.jpg
+image: assets/2019/02-xinmoshi-sprint/5-heying.jpg
 ---
 人们怎样定义冲刺？
 

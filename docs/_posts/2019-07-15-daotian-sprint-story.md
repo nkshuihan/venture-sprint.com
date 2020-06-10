@@ -4,7 +4,7 @@ author: daotian
 categories: news
 tags:
   - vs8
-image: /assets/2019/08-daotian-sprint/heying.jpg
+image: assets/2019/08-daotian-sprint/heying.jpg
 ---
 距冲刺结束已经有一个月了，冲刺对于我来说给了我很大的提升，在工作上的方向更清晰了。首先来回顾一下整个冲刺的过程。
 总体来说我们制定长期目标短期目标，反复的寻找冲刺问题，绘制用户地图，之后进行用户采访，绘制故事板，建模，模拟测试，最终进行了用户测试。

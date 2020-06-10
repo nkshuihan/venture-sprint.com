@@ -4,7 +4,7 @@ author: qixiang
 categories: news
 tags:
   - vs3
-image: /assets/2019/03-qixiangkeji-sprint/6-heying.jpg
+image: assets/2019/03-qixiangkeji-sprint/6-heying.jpg
 ---
 参加完Venture Sprint整个课程后，从对Venture Sprint的回顾来看，VentureSprint对每个流程有详细的时间和任务分配。因此总结就按照每一天为单位来进行。
 

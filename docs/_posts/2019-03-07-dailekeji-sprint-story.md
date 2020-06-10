@@ -4,7 +4,7 @@ author: dailekeji
 categories: news
 tags:
   - vs2
-image: /assets/2019/02-dailiekeji-sprint/6-heying.jpg
+image: assets/2019/02-dailiekeji-sprint/6-heying.jpg
 ---
 在报名Venture Sprint项目冲刺的时候，团队为空气鼓槌到底该设计成什么样，给谁设计吵得不可开交，当时我们CEO出于换换脑子的想法，看了眼关于Venture Sprint报名的消息，然后问大家一句：“要不我们去试试报名这个打磨一下我们的产品？”他得到的反馈是：我们为要不要从本就紧张的排期中抽出五天时间去参加一个未必有效的培训而吵得不可开交。
 ![storyboard](/assets/2019/02-dailiekeji-sprint/1-storyboard.jpg)

@@ -4,7 +4,7 @@ author: yinnuo
 categories: news
 tags:
   - vs12
-image: /assets/2019/12-youxue-sprint/heying2.jpg
+image: assets/2019/12-youxue-sprint/heying2.jpg
 ---
 ![1](/assets/2019/12-youxue-sprint/1.jpg)
 ![2](/assets/2019/12-youxue-sprint/2.jpg)

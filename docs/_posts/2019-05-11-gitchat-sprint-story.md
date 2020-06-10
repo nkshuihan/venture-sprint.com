@@ -4,7 +4,7 @@ author: xiegong
 categories: news
 tags:
   - vs4
-image:  /assets/2019/04-gitchat-sprint/4-heying.jpg
+image: assets/2019/04-gitchat-sprint/4-heying.jpg
 ---
 什么是冲刺设计?
 上周我带团队抽出了一周时间，停下手上的所有工作，参加了一次姚瑞军教练组织的Venture Sprint创新冲刺。我想借GitChat即将进行改版之际，整理一下这一周的学习收获，分享给大家。

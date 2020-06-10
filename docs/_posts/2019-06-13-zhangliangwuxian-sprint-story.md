@@ -4,7 +4,7 @@ author: sigai
 categories: news
 tags:
   - vs6
-image: /assets/2019/06-zhangliangwuxian-sprint/7-heying.jpg
+image: assets/2019/06-zhangliangwuxian-sprint/7-heying.jpg
 ---
 关于冲刺
 硅谷诸多知名大公司都在运用SPRINT解决他们在创新中面临的困境。如Google、Airbnb等。为期五天，验证想法衍生的产品和战略。
