@@ -1,6 +1,6 @@
 ---
 title: 至真互联冲刺故事
-author: liupeng
+author: zhizhenhulian
 categories: news
 tags:
   - vs9

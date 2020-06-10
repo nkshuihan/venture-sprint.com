@@ -1,6 +1,6 @@
 ---
 title: 星火车联冲刺故事
-author: xinghuo
+author: xinghuochelian
 categories: news
 tags:
   - vs11

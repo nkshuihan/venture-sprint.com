@@ -1,6 +1,6 @@
 ---
 title: 英诺留学营创新冲刺琐记
-author: yinnuo
+author: yingnuo
 categories: news
 tags:
   - vs12

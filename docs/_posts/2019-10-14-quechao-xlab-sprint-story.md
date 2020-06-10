@@ -1,6 +1,6 @@
 ---
 title: 清华雀巢可持续性包装冲刺
-author: xlab
+author: quechao-xlab
 categories: news
 tags:
   - vs10
