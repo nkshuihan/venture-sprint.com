@@ -1,10 +1,10 @@
 ---
 title: 数翔科技冲刺故事
-author: shuxiang
+author: shuxiangkeji
 categories: news
 tags:
   - vs11
-image: assets//2019/11-shuxiangkeji-sprint/heying.jpg
+image: assets/portfolios/shuxiangkeji/heying.jpg
 ---
 ![1](/assets/2019/11-shuxiangkeji-sprint/1.jpg)
 ![2](/assets/2019/11-shuxiangkeji-sprint/2.jpg)

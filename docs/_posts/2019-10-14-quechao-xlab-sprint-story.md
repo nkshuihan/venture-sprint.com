@@ -4,6 +4,7 @@ author: quechao-xlab
 categories: news
 tags:
   - vs10
+  - home
 image: assets/2019/10-quechao-xlab-sprint/heying.jpg
 ---
 ![1](/assets/2019/10-quechao-xlab-sprint/1.jpg)
