@@ -1,10 +1,10 @@
 ---
 title: Venture Sprint创新项目冲刺故事-孕橙
-author: yunchen
+author: yuncheng
 categories: news
 tags:
   - vs2
-image: assets/2019/02-yunchen-sprint/5-heying2.jp
+image: assets/2019/02-yunchen-sprint/heying.jp
 ---
 当我们正在酝酿如何根据用户需求将硬件与服务相结合时，我们看到了Venture Sprint的招募通知。想到能在5天的时间里将想法实现成产品原型并进行用户测试，还有专业的人在这个过程中把关指导，我们兴奋不已。而在经历了5天冲刺、拿到了用户反馈后，我们也十分庆幸当时毫不犹豫地报名参加Venture
 Sprint创新冲刺项目，在这5天里，我们不仅用较短的时间来验证了想法是否正确，还掌握了“如何快速验证产品模式”的一套完整的方法论。
