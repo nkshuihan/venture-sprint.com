@@ -4,7 +4,7 @@ author: pigaiwang
 categories: news
 tags:
   - vs1
-image: assets/01-pigaiwang-sprint/heying.jpg
+image: assets/2019/01-pigaiwang-sprint/heying.jpg
 ---
 因为各种机缘巧合，参加了由Venture Sprint主办，CSDN、天使汇等联合主办的第一届Sprint硅谷创新冲刺培训（以下简称“创新冲刺”），由李卓恒和姚瑞军两位教练带领CSDN APP、广州微印和栖梧教育三个团队经历了五天的创新冲刺，从一个项目想法开 始，团队共同完成产品原型，并且找来用户验证产品原型，工作量和压力之大超越了之前参加过的所有培训。
 
